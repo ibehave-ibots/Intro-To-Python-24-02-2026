@@ -1,5 +1,5 @@
-# iBOTS-Intro-to-Python-for-Scientists-2025-May
-iBOTS workshop: 2026-01-27 
+# iBOTS-Intro-to-Python-for-Scientists
+iBOTS workshop: 2026-02-24 
 
 Main Teacher: Dr. Sangeetha Nandakumar
 
